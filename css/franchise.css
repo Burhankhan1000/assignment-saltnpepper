@@ -1,0 +1,17 @@
+input, select {
+    width: 550px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.franchise-form-btn{
+    background-color: #ffca2c;
+    border: none;
+    color: var(--white);
+    padding: 12px 55px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+    cursor: pointer;
+    font-weight: 400;
+  }

@@ -1,0 +1,21 @@
+.heading-about
+{
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: white;
+}
+.futurak-font-about{
+    font-family: futurak;
+    font-size: 3.2rem;
+  }
+  .heading-about-village
+{
+  font-size: 3.2rem;
+  font-weight: 400;
+  color: white;
+}
+.express-img-about
+ {
+  width: 332px;
+  border-radius: 5px;
+ }

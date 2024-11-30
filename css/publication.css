@@ -1,0 +1,11 @@
+.publication-child-1{
+    border: 1px solid #525252;
+}
+.publication-child-1 img{
+    width:520px; 
+    padding: 10px 5px;
+}
+.publication-heading{
+    font-size: 1.6rem;
+    font-weight: 500;
+ }
